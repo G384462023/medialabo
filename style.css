@@ -1,0 +1,23 @@
+h1 {
+	color: rgb(0, 255, 47);
+	text-shadow: 1px 1px 2px red, 0 0 1em rgb(0, 255, 47), 0 0 0.2em blue;
+    background: content-box radial-gradient(crimson, skyblue);
+    width: fit-content;
+}
+
+h2 {
+	font-family: cursive;
+	color: rgb(0, 255, 47);
+	background: linear-gradient(90deg,rgb(255, 0, 0), #0004ff);
+	margin: 15px;
+}
+
+h3 {
+    margin-left: 12px;
+    border-top: 4px solid #00fff7;
+    margin-top: 25px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-left: 20px solid #00fff7;
+}
