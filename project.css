@@ -1,0 +1,18 @@
+h1 {
+    padding: 10px;
+    border: 2px solid #555555;
+    border-radius: 10px;
+    font-size: 3em;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+div#result {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
